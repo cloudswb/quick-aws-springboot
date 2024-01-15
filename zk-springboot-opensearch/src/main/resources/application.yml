@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: "bootful opensearch"
+aws:
+  os:
+    region: cn-northwest-1
+    endpoint: https://vpc-ugee-opensearch-test-1-pbbgb5ose3tnpc25czquu5bdd4.cn-northwest-1.es.amazonaws.com.cn
+    username: admin
+    password: abC@12345
+  iam:
+    role: roleARN
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,prometheus

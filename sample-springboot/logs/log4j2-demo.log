@@ -1,0 +1,85 @@
+2023-02-14 16:38:21.360  INFO zhangdeMacBook-Air.local --- [           main] c.q.a.s.s.SampleSpringbootApplication    : Starting SampleSpringbootApplication using Java 17.0.6 with PID 13318 (/Users/zhangkai/sc/github/quick-aws-springboot/sample-springboot/target/classes started by zhangkai in /Users/zhangkai/sc/github/quick-aws-springboot/sample-springboot)
+2023-02-14 16:38:21.368  INFO zhangdeMacBook-Air.local --- [           main] c.q.a.s.s.SampleSpringbootApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-02-14 16:38:21.960  INFO zhangdeMacBook-Air.local --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2023-02-14 16:38:21.965  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-14 16:38:21.966  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2023-02-14 16:38:21.966  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-14 16:38:22.009  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2023-02-14 16:38:22.009  INFO zhangdeMacBook-Air.local --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 614 ms
+2023-02-14 16:38:22.322  INFO zhangdeMacBook-Air.local --- [           main] o.s.b.a.e.w.EndpointLinksResolver        : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-02-14 16:38:22.347  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2023-02-14 16:38:22.357  INFO zhangdeMacBook-Air.local --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-14 16:38:22.375  INFO zhangdeMacBook-Air.local --- [           main] c.q.a.s.s.SampleSpringbootApplication    : Started SampleSpringbootApplication in 1.262 seconds (process running for 2.019)
+2023-02-14 16:38:24.305  INFO zhangdeMacBook-Air.local --- [on(3)-127.0.0.1] o.a.c.c.C.[.[.[/]                        : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-14 16:38:24.305  INFO zhangdeMacBook-Air.local --- [on(3)-127.0.0.1] o.s.w.s.DispatcherServlet                : Initializing Servlet 'dispatcherServlet'
+2023-02-14 16:38:24.306  INFO zhangdeMacBook-Air.local --- [on(3)-127.0.0.1] o.s.w.s.DispatcherServlet                : Completed initialization in 1 ms
+2023-02-14 16:38:53.296  INFO zhangdeMacBook-Air.local --- [           main] c.q.a.s.s.SampleSpringbootApplication    : Starting SampleSpringbootApplication using Java 17.0.6 with PID 13366 (/Users/zhangkai/sc/github/quick-aws-springboot/sample-springboot/target/classes started by zhangkai in /Users/zhangkai/sc/github/quick-aws-springboot/sample-springboot)
+2023-02-14 16:38:53.303  INFO zhangdeMacBook-Air.local --- [           main] c.q.a.s.s.SampleSpringbootApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-02-14 16:38:53.897  INFO zhangdeMacBook-Air.local --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2023-02-14 16:38:53.902  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-14 16:38:53.903  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2023-02-14 16:38:53.903  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-14 16:38:53.948  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2023-02-14 16:38:53.948  INFO zhangdeMacBook-Air.local --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 607 ms
+2023-02-14 16:38:54.254  INFO zhangdeMacBook-Air.local --- [           main] o.s.b.a.e.w.EndpointLinksResolver        : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-02-14 16:38:54.279  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2023-02-14 16:38:54.293  INFO zhangdeMacBook-Air.local --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-14 16:38:54.310  INFO zhangdeMacBook-Air.local --- [           main] c.q.a.s.s.SampleSpringbootApplication    : Started SampleSpringbootApplication in 1.232 seconds (process running for 1.746)
+2023-02-14 16:38:56.398  INFO zhangdeMacBook-Air.local --- [on(3)-127.0.0.1] o.a.c.c.C.[.[.[/]                        : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-14 16:38:56.398  INFO zhangdeMacBook-Air.local --- [on(3)-127.0.0.1] o.s.w.s.DispatcherServlet                : Initializing Servlet 'dispatcherServlet'
+2023-02-14 16:38:56.399  INFO zhangdeMacBook-Air.local --- [on(3)-127.0.0.1] o.s.w.s.DispatcherServlet                : Completed initialization in 1 ms
+2023-02-14 16:39:12.694  INFO zhangdeMacBook-Air.local --- [nio-8080-exec-1] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:12.695  WARN zhangdeMacBook-Air.local --- [nio-8080-exec-1] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:12.695 ERROR zhangdeMacBook-Air.local --- [nio-8080-exec-1] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:12.695 FATAL zhangdeMacBook-Air.local --- [nio-8080-exec-1] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:13.793  INFO zhangdeMacBook-Air.local --- [nio-8080-exec-2] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:13.794  WARN zhangdeMacBook-Air.local --- [nio-8080-exec-2] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:13.794 ERROR zhangdeMacBook-Air.local --- [nio-8080-exec-2] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:13.794 FATAL zhangdeMacBook-Air.local --- [nio-8080-exec-2] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:34.783  INFO zhangdeMacBook-Air.local --- [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests]: SampleSpringbootApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-02-14 16:39:34.841  INFO zhangdeMacBook-Air.local --- [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplication for test class com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests
+2023-02-14 16:39:35.033  INFO zhangdeMacBook-Air.local --- [           main] q.a.s.s.SampleSpringbootApplicationTests : Starting SampleSpringbootApplicationTests using Java 17.0.6 with PID 13475 (started by zhangkai in /Users/zhangkai/sc/github/quick-aws-springboot/sample-springboot)
+2023-02-14 16:39:35.035  INFO zhangdeMacBook-Air.local --- [           main] q.a.s.s.SampleSpringbootApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-02-14 16:39:35.731  INFO zhangdeMacBook-Air.local --- [           main] o.s.b.a.e.w.EndpointLinksResolver        : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-02-14 16:39:35.765  INFO zhangdeMacBook-Air.local --- [           main] q.a.s.s.SampleSpringbootApplicationTests : Started SampleSpringbootApplicationTests in 0.858 seconds (process running for 1.573)
+2023-02-14 16:39:42.062  INFO zhangdeMacBook-Air.local --- [           main] c.q.a.s.s.SampleSpringbootApplication    : Starting SampleSpringbootApplication v0.0.1-SNAPSHOT using Java 17.0.6 with PID 13495 (/Users/zhangkai/sc/github/quick-aws-springboot/sample-springboot/target/sample-springboot-0.0.1-SNAPSHOT.war started by zhangkai in /Users/zhangkai/sc/github/quick-aws-springboot/sample-springboot)
+2023-02-14 16:39:42.068  INFO zhangdeMacBook-Air.local --- [           main] c.q.a.s.s.SampleSpringbootApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-02-14 16:39:42.740  INFO zhangdeMacBook-Air.local --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2023-02-14 16:39:42.746  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-14 16:39:42.747  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2023-02-14 16:39:42.747  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-14 16:39:42.811  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2023-02-14 16:39:42.812  INFO zhangdeMacBook-Air.local --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 717 ms
+2023-02-14 16:39:43.137  INFO zhangdeMacBook-Air.local --- [           main] o.s.b.a.e.w.EndpointLinksResolver        : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-02-14 16:39:43.161  INFO zhangdeMacBook-Air.local --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2023-02-14 16:39:43.178  INFO zhangdeMacBook-Air.local --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-14 16:39:43.195  INFO zhangdeMacBook-Air.local --- [           main] c.q.a.s.s.SampleSpringbootApplication    : Started SampleSpringbootApplication in 1.362 seconds (process running for 1.927)
+2023-02-14 16:39:45.211  INFO zhangdeMacBook-Air.local --- [nio-8080-exec-1] o.a.c.c.C.[.[.[/]                        : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-14 16:39:45.212  INFO zhangdeMacBook-Air.local --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : Initializing Servlet 'dispatcherServlet'
+2023-02-14 16:39:45.213  INFO zhangdeMacBook-Air.local --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : Completed initialization in 0 ms
+2023-02-14 16:39:45.239  INFO zhangdeMacBook-Air.local --- [nio-8080-exec-1] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:45.239  WARN zhangdeMacBook-Air.local --- [nio-8080-exec-1] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:45.239 ERROR zhangdeMacBook-Air.local --- [nio-8080-exec-1] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:45.239 FATAL zhangdeMacBook-Air.local --- [nio-8080-exec-1] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:47.245  INFO zhangdeMacBook-Air.local --- [nio-8080-exec-3] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:47.246  WARN zhangdeMacBook-Air.local --- [nio-8080-exec-3] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:47.246 ERROR zhangdeMacBook-Air.local --- [nio-8080-exec-3] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2023-02-14 16:39:47.247 FATAL zhangdeMacBook-Air.local --- [nio-8080-exec-3] c.q.a.s.s.c.LogController                : Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+09:08:26.151 [main] INFO  org.springframework.test.context.support.AnnotationConfigContextLoaderUtils – Could not detect default configuration classes for test class [com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests]: SampleSpringbootApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:08:26.211 [main] INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper – Found @SpringBootConfiguration com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplication for test class com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests
+09:08:26.423 [main] INFO  com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests – Starting SampleSpringbootApplicationTests using Java 17.0.6 with PID 29130 (started by zhangkai in /Users/zhangkai/sc/github/quick-aws-springboot/sample-springboot)
+09:08:26.425 [main] INFO  com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests – No active profile set, falling back to 1 default profile: "default"
+09:08:27.183 [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver – Exposing 1 endpoint(s) beneath base path '/actuator'
+09:08:27.218 [main] INFO  com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests – Started SampleSpringbootApplicationTests in 0.931 seconds (process running for 1.822)
+09:11:10.208 [main] INFO  org.springframework.test.context.support.AnnotationConfigContextLoaderUtils – Could not detect default configuration classes for test class [com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests]: SampleSpringbootApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:11:10.272 [main] INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper – Found @SpringBootConfiguration com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplication for test class com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests
+09:11:10.483 [main] INFO  com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests – Starting SampleSpringbootApplicationTests using Java 17.0.6 with PID 29231 (started by zhangkai in /Users/zhangkai/sc/github/quick-aws-springboot/sample-springboot)
+09:11:10.485 [main] INFO  com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests – No active profile set, falling back to 1 default profile: "default"
+09:11:11.227 [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver – Exposing 1 endpoint(s) beneath base path '/actuator'
+09:11:11.261 [main] INFO  com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests – Started SampleSpringbootApplicationTests in 0.913 seconds (process running for 1.902)
+09:11:29.374 [main] INFO  org.springframework.test.context.support.AnnotationConfigContextLoaderUtils – Could not detect default configuration classes for test class [com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests]: SampleSpringbootApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:11:29.424 [main] INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper – Found @SpringBootConfiguration com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplication for test class com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests
+09:11:29.616 [main] INFO  com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests – Starting SampleSpringbootApplicationTests using Java 17.0.6 with PID 29274 (started by zhangkai in /Users/zhangkai/sc/github/quick-aws-springboot/sample-springboot)
+09:11:29.618 [main] INFO  com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests – No active profile set, falling back to 1 default profile: "default"
+09:11:30.348 [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver – Exposing 1 endpoint(s) beneath base path '/actuator'
+09:11:30.377 [main] INFO  com.quick.aws.samplespringboot.samplespringboot.SampleSpringbootApplicationTests – Started SampleSpringbootApplicationTests in 0.887 seconds (process running for 1.628)
